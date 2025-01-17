@@ -1,0 +1,1 @@
+This repository contains a Swift function that calculates the area of a rectangle.  The initial version has a bug where it doesn't handle negative width or height values. A corrected version with input validation is provided for comparison.  The bug is demonstrated and a solution is offered.
